@@ -33,7 +33,7 @@
 
 <hr> -->
 <p align="center" style="padding:15px;">
-  <img width="250" height="264" src="images/PacMan1.png">
+  <img width="300" src="images/pacmen.jpg">
 </p>
 
 <p align="center">
