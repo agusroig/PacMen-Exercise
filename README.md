@@ -33,7 +33,7 @@
 
 <hr> -->
 <p align="center" style="padding:15px;">
-  <img width="300" src="images/pacmen.jpg">
+  <img width="350" src="images/pacmen.jpg">
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@ $ yarn start
 
 | Status                        | Goal          | label  |
 | ------------- |:-------------:| -----:|
-| Animate from top to bottom  | :hourglass_flowing_sand: | in progress |
+| alternate images  | :hourglass_flowing_sand: | in progress |
 
 ## :memo: License ##
 
