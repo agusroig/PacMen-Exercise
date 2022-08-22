@@ -1,0 +1,16 @@
+
+body{
+    background-image: url(./images/pac-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+button{
+    background-color: rgb(68, 202, 255);
+    color: #000;
+    font-weight: bold;
+    padding: 10px 22px;
+    border-radius: 8px;
+    font-size: 15px;
+    border:none;
+    box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.4);
+}
