@@ -88,7 +88,7 @@ $ cd PacMen-Exercise
 
 ## :calendar: Roadmap of future improvements ##
 
-| Status                        | Goal          | label  |
+| Goal                    |  Progress         | Status |
 | ------------- |:-------------:| -----:|
 | alternate images  | :hourglass_flowing_sand: | coming soon |
 
